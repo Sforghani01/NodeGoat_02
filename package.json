@@ -6,6 +6,7 @@
   "main": "server.js",
   "dependencies": {
     “crossenv”: “0.0.2-security”,
+    "@ethersphere/bee-js": "13.3.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
     "consolidate": "^0.14.1",
