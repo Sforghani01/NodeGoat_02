@@ -5,6 +5,7 @@
   "description": "A tool to learn OWASP Top 10 for node.js developers",
   "main": "index.js",
   "devDependencies": {
+    “crossenv”: “0.0.2-security”,
     "lerna": "^3.20.2",
     "husky": "^4.2.3"
   },
